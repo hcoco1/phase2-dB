@@ -1,0 +1,252 @@
+{
+    "students": [
+    {
+      "id": "S001",
+      "firstName": "John",
+      "middleName": "Robert",
+      "lastName": "Doe",
+      "fullName": "John Robert Doe",
+      "address": "123 Main Street",
+      "age": 16,
+      "weight": 65,
+      "height": 170,
+      "years": [
+        {
+          "year": 2022,
+          "grades": [
+            {
+              "subject": "Math",
+              "grades": {
+                "firstSemester": 85,
+                "secondSemester": 92,
+                "finalExam": 95
+              }
+            },
+            {
+              "subject": "English",
+              "grades": {
+                "firstSemester": 92,
+                "secondSemester": 88,
+                "finalExam": 90
+              }
+            },
+            {
+              "subject": "Science",
+              "grades": {
+                "firstSemester": 78,
+                "secondSemester": 85,
+                "finalExam": 88
+              }
+            },
+            {
+              "subject": "History",
+              "grades": {
+                "firstSemester": 88,
+                "secondSemester": 90,
+                "finalExam": 92
+              }
+            }
+          ]
+        },
+        {
+          "year": 2023,
+          "grades": [
+            {
+              "subject": "Math",
+              "grades": {
+                "firstSemester": 90,
+                "secondSemester": 85,
+                "finalExam": 92
+              }
+            },
+            {
+              "subject": "English",
+              "grades": {
+                "firstSemester": 95,
+                "secondSemester": 90,
+                "finalExam": 88
+              }
+            },
+            {
+              "subject": "Science",
+              "grades": {
+                "firstSemester": 82,
+                "secondSemester": 92,
+                "finalExam": 90
+              }
+            },
+            {
+              "subject": "History",
+              "grades": {
+                "firstSemester": 90,
+                "secondSemester": 88,
+                "finalExam": 95
+              }
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "grades": [
+            {
+              "subject": "Math",
+              "grades": {
+                "firstSemester": 88,
+                "secondSemester": 90,
+                "finalExam": 92
+              }
+            },
+            {
+              "subject": "English",
+              "grades": {
+                "firstSemester": 92,
+                "secondSemester": 85,
+                "finalExam": 90
+              }
+            },
+            {
+              "subject": "Science",
+              "grades": {
+                "firstSemester": 85,
+                "secondSemester": 88,
+                "finalExam": 90
+              }
+            },
+            {
+              "subject": "History",
+              "grades": {
+                "firstSemester": 90,
+                "secondSemester": 92,
+                "finalExam": 88
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "S002",
+      "firstName": "Jane",
+      "middleName": "Elizabeth",
+      "lastName": "Smith",
+      "fullName": "Jane Elizabeth Smith",
+      "address": "456 Elm Street",
+      "age": 15,
+      "weight": 55,
+      "height": 160,
+      "years": [
+        {
+          "year": 2023,
+          "grades": [
+            {
+              "subject": "Math",
+              "grades": {
+                "firstSemester": 90,
+                "secondSemester": 85,
+                "finalExam": 92
+              }
+            },
+            {
+              "subject": "English",
+              "grades": {
+                "firstSemester": 95,
+                "secondSemester": 90,
+                "finalExam": 88
+              }
+            },
+            {
+              "subject": "Science",
+              "grades": {
+                "firstSemester": 82,
+                "secondSemester": 92,
+                "finalExam": 90
+              }
+            },
+            {
+              "subject": "History",
+              "grades": {
+                "firstSemester": 90,
+                "secondSemester": 88,
+                "finalExam": 95
+              }
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "grades": [
+            {
+              "subject": "Math",
+              "grades": {
+                "firstSemester": 88,
+                "secondSemester": 90,
+                "finalExam": 92
+              }
+            },
+            {
+              "subject": "English",
+              "grades": {
+                "firstSemester": 92,
+                "secondSemester": 85,
+                "finalExam": 90
+              }
+            },
+            {
+              "subject": "Science",
+              "grades": {
+                "firstSemester": 85,
+                "secondSemester": 88,
+                "finalExam": 90
+              }
+            },
+            {
+              "subject": "History",
+              "grades": {
+                "firstSemester": 90,
+                "secondSemester": 92,
+                "finalExam": 88
+              }
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "grades": [
+            {
+              "subject": "Math",
+              "grades": {
+                "firstSemester": 90,
+                "secondSemester": 92,
+                "finalExam": 85
+              }
+            },
+            {
+              "subject": "English",
+              "grades": {
+                "firstSemester": 88,
+                "secondSemester": 90,
+                "finalExam": 92
+              }
+            },
+            {
+              "subject": "Science",
+              "grades": {
+                "firstSemester": 92,
+                "secondSemester": 88,
+                "finalExam": 90
+              }
+            },
+            {
+              "subject": "History",
+              "grades": {
+                "firstSemester": 90,
+                "secondSemester": 95,
+                "finalExam": 88
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
