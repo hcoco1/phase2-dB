@@ -1,5 +1,5 @@
-[
-  {
+{
+    "S001": {
       "id": "S001",
       "firstName": "Jane",
       "lastName": "Smith",
@@ -10,54 +10,54 @@
       "weight": 55,
       "height": 160,
       "subjects": [
-          {
-              "id": 1,
-              "name": "Math",
-              "grades": {
-                  "firstSemester": 88,
-                  "secondSemester": 90,
-                  "finalExam": 92
-              }
-          },
-          {
-              "id": 2,
-              "name": "English",
-              "grades": {
-                  "firstSemester": 92,
-                  "secondSemester": 85,
-                  "finalExam": 90
-              }
-          },
-          {
-              "id": 3,
-              "name": "Science",
-              "grades": {
-                  "firstSemester": 78,
-                  "secondSemester": 82,
-                  "finalExam": 85
-              }
-          },
-          {
-              "id": 4,
-              "name": "History",
-              "grades": {
-                  "firstSemester": 88,
-                  "secondSemester": 86,
-                  "finalExam": 90
-              }
-          },
-          {
-              "id": 5,
-              "name": "Geography",
-              "grades": {
-                  "firstSemester": 90,
-                  "secondSemester": 88,
-                  "finalExam": 92
-              }
+        {
+          "id": 1,
+          "name": "Math",
+          "grades": {
+            "firstSemester": 88,
+            "secondSemester": 90,
+            "finalExam": 92
           }
+        },
+        {
+          "id": 2,
+          "name": "English",
+          "grades": {
+            "firstSemester": 92,
+            "secondSemester": 85,
+            "finalExam": 90
+          }
+        },
+        {
+          "id": 3,
+          "name": "Science",
+          "grades": {
+            "firstSemester": 78,
+            "secondSemester": 82,
+            "finalExam": 85
+          }
+        },
+        {
+          "id": 4,
+          "name": "History",
+          "grades": {
+            "firstSemester": 88,
+            "secondSemester": 86,
+            "finalExam": 90
+          }
+        },
+        {
+          "id": 5,
+          "name": "Geography",
+          "grades": {
+            "firstSemester": 90,
+            "secondSemester": 88,
+            "finalExam": 92
+          }
+        }
       ]
-  },
-  {
+    },
+    "S002": {
       "id": "S002",
       "firstName": "John",
       "lastName": "Doe",
@@ -68,109 +68,109 @@
       "weight": 60,
       "height": 170,
       "subjects": [
-          {
-              "id": 1,
-              "name": "Math",
-              "grades": {
-                  "firstSemester": 85,
-                  "secondSemester": 88,
-                  "finalExam": 90
-              }
-          },
-          {
-              "id": 2,
-              "name": "English",
-              "grades": {
-                  "firstSemester": 90,
-                  "secondSemester": 92,
-                  "finalExam": 95
-              }
-          },
-          {
-              "id": 3,
-              "name": "Science",
-              "grades": {
-                  "firstSemester": 80,
-                  "secondSemester": 85,
-                  "finalExam": 88
-              }
-          },
-          {
-              "id": 4,
-              "name": "History",
-              "grades": {
-                  "firstSemester": 86,
-                  "secondSemester": 90,
-                  "finalExam": 92
-              }
-          },
-          {
-              "id": 5,
-              "name": "Geography",
-              "grades": {
-                  "firstSemester": 88,
-                  "secondSemester": 92,
-                  "finalExam": 94
-              }
+        {
+          "id": 1,
+          "name": "Math",
+          "grades": {
+            "firstSemester": 85,
+            "secondSemester": 88,
+            "finalExam": 90
           }
+        },
+        {
+          "id": 2,
+          "name": "English",
+          "grades": {
+            "firstSemester": 90,
+            "secondSemester": 92,
+            "finalExam": 95
+          }
+        },
+        {
+          "id": 3,
+          "name": "Science",
+          "grades": {
+            "firstSemester": 82,
+            "secondSemester": 80,
+            "finalExam": 85
+          }
+        },
+        {
+          "id": 4,
+          "name": "History",
+          "grades": {
+            "firstSemester": 88,
+            "secondSemester": 86,
+            "finalExam": 90
+          }
+        },
+        {
+          "id": 5,
+          "name": "Geography",
+          "grades": {
+            "firstSemester": 92,
+            "secondSemester": 88,
+            "finalExam": 90
+          }
+        }
       ]
-  },
-  {
+    },
+    "S003": {
       "id": "S003",
-      "firstName": "Emily",
+      "firstName": "Sarah",
       "lastName": "Johnson",
-      "fullName": "Emily Johnson",
-      "imgUrl": "https://images.pexels.com/photos/4488359/pexels-photo-4488359.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "fullName": "Sarah Johnson",
+      "imgUrl": "https://images.pexels.com/photos/7898228/pexels-photo-7898228.jpeg?auto=compress&cs=tinysrgb&w=400",
       "address": "789 Maple Avenue",
-      "age": 15,
-      "weight": 50,
-      "height": 155,
+      "age": 17,
+      "weight": 65,
+      "height": 175,
       "subjects": [
-          {
-              "id": 1,
-              "name": "Math",
-              "grades": {
-                  "firstSemester": 90,
-                  "secondSemester": 92,
-                  "finalExam": 95
-              }
-          },
-          {
-              "id": 2,
-              "name": "English",
-              "grades": {
-                  "firstSemester": 85,
-                  "secondSemester": 88,
-                  "finalExam": 90
-              }
-          },
-          {
-              "id": 3,
-              "name": "Science",
-              "grades": {
-                  "firstSemester": 92,
-                  "secondSemester": 90,
-                  "finalExam": 95
-              }
-          },
-          {
-              "id": 4,
-              "name": "History",
-              "grades": {
-                  "firstSemester": 88,
-                  "secondSemester": 90,
-                  "finalExam": 92
-              }
-          },
-          {
-              "id": 5,
-              "name": "Geography",
-              "grades": {
-                  "firstSemester": 92,
-                  "secondSemester": 95,
-                  "finalExam": 98
-              }
+        {
+          "id": 1,
+          "name": "Math",
+          "grades": {
+            "firstSemester": 90,
+            "secondSemester": 92,
+            "finalExam": 95
           }
+        },
+        {
+          "id": 2,
+          "name": "English",
+          "grades": {
+            "firstSemester": 92,
+            "secondSemester": 88,
+            "finalExam": 90
+          }
+        },
+        {
+          "id": 3,
+          "name": "Science",
+          "grades": {
+            "firstSemester": 85,
+            "secondSemester": 80,
+            "finalExam": 82
+          }
+        },
+        {
+          "id": 4,
+          "name": "History",
+          "grades": {
+            "firstSemester": 90,
+            "secondSemester": 88,
+            "finalExam": 92
+          }
+        },
+        {
+          "id": 5,
+          "name": "Geography",
+          "grades": {
+            "firstSemester": 88,
+            "secondSemester": 86,
+            "finalExam": 90
+          }
+        }
       ]
+    }
   }
-]
