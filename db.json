@@ -56,7 +56,7 @@
             "bathrooms": 4,
             "square_feet": 8746,
             "listing_date": "10/21/2021",
-            "property_type": "Townhouse",
+            "property_type": "Townhome",
             "operation_type": "Sale",
             "image": "https://images.unsplash.com/photo-1681060509650-6d4e2998c84c?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8VG93bmhvdXNlfHx8fHx8MTY4NjgzMTQ3MA&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640"
         },
@@ -176,7 +176,7 @@
             "bathrooms": 2,
             "square_feet": 1504,
             "listing_date": "3/2/2022",
-            "property_type": "Townhouse",
+            "property_type": "Townhome",
             "operation_type": "Rent",
             "image": "https://images.unsplash.com/photo-1666685568507-2d92c53d3e67?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8VG93bmhvdXNlfHx8fHx8MTY4NjgzMTY5NQ&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640"
         },
@@ -536,7 +536,7 @@
             "bathrooms": 5,
             "square_feet": 1959,
             "listing_date": "9/13/2020",
-            "property_type": "Townhouse",
+            "property_type": "Townhome",
             "operation_type": "Rent",
             "image": "https://images.unsplash.com/photo-1609093888626-df388bbf42c4?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8VG93bmhvdXNlfHx8fHx8MTY4NjgzMjQ2NA&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640"
         },
@@ -731,7 +731,7 @@
             "bathrooms": 3,
             "square_feet": 9132,
             "listing_date": "8/10/2020",
-            "property_type": "Townhouse",
+            "property_type": "Townhome",
             "operation_type": "Rent",
             "image": "https://images.unsplash.com/photo-1669116555048-796f75d89144?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8VG93bmhvdXNlfHx8fHx8MTY4NjgzMzkwOA&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640"
         },
@@ -761,7 +761,7 @@
             "bathrooms": 2,
             "square_feet": 9773,
             "listing_date": "7/14/2020",
-            "property_type": "Townhouse",
+            "property_type": "Townhome",
             "operation_type": "Sale",
             "image": "https://images.unsplash.com/photo-1667828369318-09a68b258a18?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8VG93bmhvdXNlfHx8fHx8MTY4NjgzMzk1Ng&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640"
         },
@@ -806,7 +806,7 @@
             "bathrooms": 1,
             "square_feet": 1563,
             "listing_date": "3/23/2020",
-            "property_type": "Townhouse",
+            "property_type": "Townhome",
             "operation_type": "Rent",
             "image": "https://images.unsplash.com/photo-1560185007-5f0bb1866cab?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8VG93bmhvdXNlfHx8fHx8MTY4NjgzNDAxMA&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640"
         },
@@ -956,7 +956,7 @@
             "bathrooms": 4,
             "square_feet": 2368,
             "listing_date": "2/19/2020",
-            "property_type": "Townhouse",
+            "property_type": "Townhome",
             "operation_type": "Rent",
             "image": "https://images.unsplash.com/photo-1661431325276-bbbd6c2e0a62?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8VG93bmhvdXNlfHx8fHx8MTY4NjgzNDI0OA&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640"
         },
@@ -1166,7 +1166,7 @@
             "bathrooms": 2,
             "square_feet": 7880,
             "listing_date": "12/27/2022",
-            "property_type": "Townhouse",
+            "property_type": "Townhome",
             "operation_type": "Sale",
             "image": "https://images.unsplash.com/photo-1615386360153-cea989da707e?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8VG93bmhvdXNlfHx8fHx8MTY4NjgzNDYwNA&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640"
         },
@@ -1256,7 +1256,7 @@
             "bathrooms": 5,
             "square_feet": 4726,
             "listing_date": "1/25/2021",
-            "property_type": "Townhouse",
+            "property_type": "Townhome",
             "operation_type": "Sale",
             "image": "https://dummyimage.com/640x360/0acc65/fff.gif&text=Real+State+App"
         },
@@ -1271,7 +1271,7 @@
             "bathrooms": 1,
             "square_feet": 2050,
             "listing_date": "10/14/2022",
-            "property_type": "Townhouse",
+            "property_type": "Townhome",
             "operation_type": "Sale",
             "image": "https://dummyimage.com/640x360/0acc65/fff.gif&text=Real+State+App"
         },
@@ -1316,7 +1316,7 @@
             "bathrooms": 2,
             "square_feet": 6999,
             "listing_date": "9/6/2021",
-            "property_type": "Townhouse",
+            "property_type": "Townhome",
             "operation_type": "Rent",
             "image": "https://dummyimage.com/640x360/0acc65/fff.gif&text=Real+State+App"
         },
@@ -1466,7 +1466,7 @@
             "bathrooms": 2,
             "square_feet": 2235,
             "listing_date": "5/11/2020",
-            "property_type": "Townhouse",
+            "property_type": "Townhome",
             "operation_type": "Sale",
             "image": "https://dummyimage.com/640x360/0acc65/fff.gif&text=Real+State+App"
         },
