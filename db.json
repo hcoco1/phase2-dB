@@ -13,7 +13,7 @@
             "listing_date": "6/22/2021",
             "property_type": "Farm",
             "operation_type": "Sale",
-            "image": "https://dummyimage.com/640x360/0acc65/fff.gif&text=Real+State+App"
+            "image": "https://images.unsplash.com/photo-1597022187576-c62f63e6c2a2?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8ZmFybXx8fHx8fDE2ODY4MzEyNzI&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640"
         },
         {
             "property_id": 890687,
@@ -28,7 +28,7 @@
             "listing_date": "1/9/2020",
             "property_type": "Farm",
             "operation_type": "Rent",
-            "image": "https://dummyimage.com/640x360/0acc65/fff.gif&text=Real+State+App"
+            "image": "https://images.unsplash.com/photo-1593179835737-9f82a5f30c68?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8ZmFybXx8fHx8fDE2ODY4MzE0MDQ&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640"
         },
         {
             "property_id": 941481,
@@ -43,7 +43,7 @@
             "listing_date": "2/5/2020",
             "property_type": "Land",
             "operation_type": "Sale",
-            "image": "https://dummyimage.com/640x360/0acc65/fff.gif&text=Real+State+App"
+            "image": "https://images.unsplash.com/photo-1595658533926-36e2be246b69?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8TGFuZHx8fHx8fDE2ODY4MzE0MzI&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640"
         },
         {
             "property_id": 755793,
@@ -58,7 +58,7 @@
             "listing_date": "10/21/2021",
             "property_type": "Townhouse",
             "operation_type": "Sale",
-            "image": "https://dummyimage.com/640x360/0acc65/fff.gif&text=Real+State+App"
+            "image": "https://images.unsplash.com/photo-1681060509650-6d4e2998c84c?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8VG93bmhvdXNlfHx8fHx8MTY4NjgzMTQ3MA&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640"
         },
         {
             "property_id": 574686,
@@ -73,7 +73,7 @@
             "listing_date": "7/16/2021",
             "property_type": "Land",
             "operation_type": "Rent",
-            "image": "https://dummyimage.com/640x360/0acc65/fff.gif&text=Real+State+App"
+            "image": "https://images.unsplash.com/photo-1622137691074-79c98cc9be0b?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8TGFuZHx8fHx8fDE2ODY4MzE0OTQ&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640"
         },
         {
             "property_id": 83579,
@@ -88,7 +88,7 @@
             "listing_date": "3/18/2020",
             "property_type": "Condo",
             "operation_type": "Rent",
-            "image": "https://dummyimage.com/640x360/0acc65/fff.gif&text=Real+State+App"
+            "image": "https://images.unsplash.com/photo-1596608628896-ee9bb4b12df5?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8Y29uZG98fHx8fHwxNjg2ODMxNTMx&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640"
         },
         {
             "property_id": 415838,
@@ -103,7 +103,7 @@
             "listing_date": "8/14/2021",
             "property_type": "Farm",
             "operation_type": "Sale",
-            "image": "https://dummyimage.com/640x360/0acc65/fff.gif&text=Real+State+App"
+            "image": "https://images.unsplash.com/photo-1529313780224-1a12b68bed16?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8ZmFybXx8fHx8fDE2ODY4MzE1NDk&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640"
         },
         {
             "property_id": 749899,
@@ -118,7 +118,7 @@
             "listing_date": "4/15/2022",
             "property_type": "Farm",
             "operation_type": "Sale",
-            "image": "https://dummyimage.com/640x360/0acc65/fff.gif&text=Real+State+App"
+            "image": "https://images.unsplash.com/photo-1525734826689-2c53dedc44d7?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8ZmFybXx8fHx8fDE2ODY4MzE1OTk&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640"
         },
         {
             "property_id": 633775,
@@ -133,7 +133,7 @@
             "listing_date": "5/28/2021",
             "property_type": "Apartment",
             "operation_type": "Rent",
-            "image": "https://dummyimage.com/640x360/0acc65/fff.gif&text=Real+State+App"
+            "image": "https://images.unsplash.com/photo-1558778909-1d4ea850da7d?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8YXBhcnRtZW50fHx8fHx8MTY4NjgzMTYyMQ&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640"
         },
         {
             "property_id": 950882,
@@ -148,7 +148,7 @@
             "listing_date": "8/13/2020",
             "property_type": "Condo",
             "operation_type": "Sale",
-            "image": "https://dummyimage.com/640x360/0acc65/fff.gif&text=Real+State+App"
+            "image": "https://images.unsplash.com/photo-1594873604892-b599f847e859?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8Y29uZG98fHx8fHwxNjg2ODMxNjM5&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640"
         },
         {
             "property_id": 636673,
@@ -163,7 +163,7 @@
             "listing_date": "6/4/2020",
             "property_type": "Condo",
             "operation_type": "Rent",
-            "image": "https://dummyimage.com/640x360/0acc65/fff.gif&text=Real+State+App"
+            "image": "https://images.unsplash.com/photo-1619542402915-dcaf30e4e2a1?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8Y29uZG98fHx8fHwxNjg2ODMxNjY3&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640"
         },
         {
             "property_id": 745399,
@@ -178,7 +178,7 @@
             "listing_date": "3/2/2022",
             "property_type": "Townhouse",
             "operation_type": "Rent",
-            "image": "https://dummyimage.com/640x360/0acc65/fff.gif&text=Real+State+App"
+            "image": "https://images.unsplash.com/photo-1666685568507-2d92c53d3e67?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8VG93bmhvdXNlfHx8fHx8MTY4NjgzMTY5NQ&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640"
         },
         {
             "property_id": 958600,
@@ -193,7 +193,7 @@
             "listing_date": "7/20/2022",
             "property_type": "Condo",
             "operation_type": "Sale",
-            "image": "https://dummyimage.com/640x360/0acc65/fff.gif&text=Real+State+App"
+            "image": "https://images.unsplash.com/photo-1585551897231-77fe523c288a?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8Y29uZG98fHx8fHwxNjg2ODMxNzIw&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640"
         },
         {
             "property_id": 9990,
@@ -208,7 +208,7 @@
             "listing_date": "2/22/2022",
             "property_type": "Condo",
             "operation_type": "Rent",
-            "image": "https://dummyimage.com/640x360/0acc65/fff.gif&text=Real+State+App"
+            "image": "https://images.unsplash.com/photo-1562142088-6f640c7fd36a?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8Y29uZG98fHx8fHwxNjg2ODMxNzQ3&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640"
         },
         {
             "property_id": 197138,
@@ -223,7 +223,7 @@
             "listing_date": "5/14/2022",
             "property_type": "Land",
             "operation_type": "Rent",
-            "image": "https://dummyimage.com/640x360/0acc65/fff.gif&text=Real+State+App"
+            "image": "https://images.unsplash.com/photo-1672139663392-25e451d5ffc0?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8TGFuZHx8fHx8fDE2ODY4MzE3NjY&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640"
         },
         {
             "property_id": 846831,
@@ -238,7 +238,7 @@
             "listing_date": "8/29/2022",
             "property_type": "Farm",
             "operation_type": "Rent",
-            "image": "https://dummyimage.com/640x360/0acc65/fff.gif&text=Real+State+App"
+            "image": "https://images.unsplash.com/photo-1610574264333-85c17e4cac98?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8ZmFybXx8fHx8fDE2ODY4MzE3ODQ&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640"
         },
         {
             "property_id": 863048,
@@ -253,7 +253,7 @@
             "listing_date": "5/31/2022",
             "property_type": "Condo",
             "operation_type": "Rent",
-            "image": "https://dummyimage.com/640x360/0acc65/fff.gif&text=Real+State+App"
+            "image": "https://images.unsplash.com/photo-1610241396974-a0fdb908a503?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8Y29uZG98fHx8fHwxNjg2ODMxODYw&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640"
         },
         {
             "property_id": 936034,
@@ -268,7 +268,7 @@
             "listing_date": "5/13/2020",
             "property_type": "House",
             "operation_type": "Rent",
-            "image": "https://dummyimage.com/640x360/0acc65/fff.gif&text=Real+State+App"
+            "image": "https://images.unsplash.com/photo-1532512888905-09061950c8c6?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8aG91c2V8fHx8fHwxNjg2ODMxMDYy&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640"
         },
         {
             "property_id": 442223,
@@ -283,7 +283,7 @@
             "listing_date": "8/13/2020",
             "property_type": "Apartment",
             "operation_type": "Sale",
-            "image": "https://dummyimage.com/640x360/0acc65/fff.gif&text=Real+State+App"
+            "image": "https://images.unsplash.com/photo-1527694224012-be005121c774?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8YXBhcnRtZW50fHx8fHx8MTY4NjgzMTg4MA&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640"
         },
         {
             "property_id": 888791,
@@ -298,7 +298,7 @@
             "listing_date": "10/1/2020",
             "property_type": "Apartment",
             "operation_type": "Sale",
-            "image": "https://dummyimage.com/640x360/0acc65/fff.gif&text=Real+State+App"
+            "image": "https://images.unsplash.com/photo-1600994562666-98dbd6d44e44?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8YXBhcnRtZW50fHx8fHx8MTY4NjgzMTkwMA&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640"
         },
         {
             "property_id": 100278,
@@ -313,7 +313,7 @@
             "listing_date": "3/29/2020",
             "property_type": "Land",
             "operation_type": "Rent",
-            "image": "https://dummyimage.com/640x360/0acc65/fff.gif&text=Real+State+App"
+            "image": "https://images.unsplash.com/photo-1674860949658-384282fd9a1b?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8TGFuZHx8fHx8fDE2ODY4MzE5MjI&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640"
         },
         {
             "property_id": 296299,
@@ -328,7 +328,7 @@
             "listing_date": "5/26/2021",
             "property_type": "House",
             "operation_type": "Sale",
-            "image": "https://dummyimage.com/640x360/0acc65/fff.gif&text=Real+State+App"
+            "image": "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8aG91c2V8fHx8fHwxNjg2ODMxOTQ5&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640"
         },
         {
             "property_id": 903538,
@@ -343,7 +343,7 @@
             "listing_date": "8/15/2021",
             "property_type": "Land",
             "operation_type": "Sale",
-            "image": "https://dummyimage.com/640x360/0acc65/fff.gif&text=Real+State+App"
+            "image": "https://images.unsplash.com/photo-1629656157544-57620b6d1b2d?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8TGFuZHx8fHx8fDE2ODY4MzIwMzM&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640"
         },
         {
             "property_id": 148234,
@@ -358,7 +358,7 @@
             "listing_date": "4/3/2022",
             "property_type": "Condo",
             "operation_type": "Rent",
-            "image": "https://dummyimage.com/640x360/0acc65/fff.gif&text=Real+State+App"
+            "image": "https://images.unsplash.com/photo-1609769699598-3648a0ea313b?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8Y29uZG98fHx8fHwxNjg2ODMyMDUy&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640"
         },
         {
             "property_id": 634320,
@@ -373,7 +373,7 @@
             "listing_date": "2/22/2021",
             "property_type": "Apartment",
             "operation_type": "Rent",
-            "image": "https://dummyimage.com/640x360/0acc65/fff.gif&text=Real+State+App"
+            "image": "https://images.unsplash.com/photo-1525273177952-67455d25871f?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8YXBhcnRtZW50fHx8fHx8MTY4NjgzMjEyNA&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640"
         },
         {
             "property_id": 271290,
@@ -388,7 +388,7 @@
             "listing_date": "1/11/2020",
             "property_type": "Farm",
             "operation_type": "Rent",
-            "image": "https://dummyimage.com/640x360/0acc65/fff.gif&text=Real+State+App"
+            "image": "https://images.unsplash.com/photo-1599774257904-168238b53ee0?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8ZmFybXx8fHx8fDE2ODY4MzIxODY&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640"
         },
         {
             "property_id": 679521,
@@ -403,7 +403,7 @@
             "listing_date": "3/13/2020",
             "property_type": "Farm",
             "operation_type": "Rent",
-            "image": "https://dummyimage.com/640x360/0acc65/fff.gif&text=Real+State+App"
+            "image": "https://images.unsplash.com/photo-1488354028423-039ac1e23357?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8ZmFybXx8fHx8fDE2ODY4MzIyMjA&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640"
         },
         {
             "property_id": 741979,
@@ -418,7 +418,7 @@
             "listing_date": "10/19/2022",
             "property_type": "Land",
             "operation_type": "Rent",
-            "image": "https://dummyimage.com/640x360/0acc65/fff.gif&text=Real+State+App"
+            "image": "https://images.unsplash.com/photo-1654271501253-d4e5e66c76ae?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8TGFuZHx8fHx8fDE2ODY4MzIyNDA&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640"
         },
         {
             "property_id": 534135,
@@ -433,7 +433,7 @@
             "listing_date": "7/13/2021",
             "property_type": "Farm",
             "operation_type": "Sale",
-            "image": "https://dummyimage.com/640x360/0acc65/fff.gif&text=Real+State+App"
+            "image": "https://images.unsplash.com/photo-1441122456239-401e92b73c65?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8ZmFybXx8fHx8fDE2ODY4MzIyNjY&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640"
         },
         {
             "property_id": 743885,
@@ -448,7 +448,7 @@
             "listing_date": "6/19/2022",
             "property_type": "Apartment",
             "operation_type": "Sale",
-            "image": "https://dummyimage.com/640x360/0acc65/fff.gif&text=Real+State+App"
+            "image": "https://images.unsplash.com/photo-1521620112244-f1d36327c766?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8YXBhcnRtZW50fHx8fHx8MTY4NjgzMjI4Ng&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640"
         },
         {
             "property_id": 870636,
@@ -463,7 +463,7 @@
             "listing_date": "5/14/2020",
             "property_type": "Land",
             "operation_type": "Rent",
-            "image": "https://dummyimage.com/640x360/0acc65/fff.gif&text=Real+State+App"
+            "image": "https://images.unsplash.com/photo-1541953747-6bead12436c3?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8TGFuZHx8fHx8fDE2ODY4MzIzMTQ&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640"
         },
         {
             "property_id": 302957,
@@ -478,7 +478,7 @@
             "listing_date": "8/29/2021",
             "property_type": "Land",
             "operation_type": "Rent",
-            "image": "https://dummyimage.com/640x360/0acc65/fff.gif&text=Real+State+App"
+            "image": "https://images.unsplash.com/uploads/1412203000677eaa41af7/2eef3b11?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8TGFuZHx8fHx8fDE2ODY4MzIzMzI&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640"
         },
         {
             "property_id": 369716,
@@ -493,7 +493,7 @@
             "listing_date": "4/1/2022",
             "property_type": "Farm",
             "operation_type": "Rent",
-            "image": "https://dummyimage.com/640x360/0acc65/fff.gif&text=Real+State+App"
+            "image": "https://images.unsplash.com/photo-1618317780188-1a7c41721f4a?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8ZmFybXx8fHx8fDE2ODY4MzIzNTU&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640"
         },
         {
             "property_id": 443342,
@@ -508,7 +508,7 @@
             "listing_date": "1/27/2020",
             "property_type": "Apartment",
             "operation_type": "Sale",
-            "image": "https://dummyimage.com/640x360/0acc65/fff.gif&text=Real+State+App"
+            "image": "https://images.unsplash.com/photo-1603920424053-a66f6788ba8e?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8YXBhcnRtZW50fHx8fHx8MTY4NjgzMjQyNA&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640"
         },
         {
             "property_id": 236391,
@@ -523,7 +523,7 @@
             "listing_date": "6/15/2022",
             "property_type": "Farm",
             "operation_type": "Rent",
-            "image": "https://dummyimage.com/640x360/0acc65/fff.gif&text=Real+State+App"
+            "image": "https://images.unsplash.com/photo-1444858291040-58f756a3bdd6?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8ZmFybXx8fHx8fDE2ODY4MzI0NDM&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640"
         },
         {
             "property_id": 487331,
@@ -538,7 +538,7 @@
             "listing_date": "9/13/2020",
             "property_type": "Townhouse",
             "operation_type": "Rent",
-            "image": "https://dummyimage.com/640x360/0acc65/fff.gif&text=Real+State+App"
+            "image": "https://images.unsplash.com/photo-1609093888626-df388bbf42c4?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8VG93bmhvdXNlfHx8fHx8MTY4NjgzMjQ2NA&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640"
         },
         {
             "property_id": 317926,
@@ -553,7 +553,7 @@
             "listing_date": "3/18/2022",
             "property_type": "Land",
             "operation_type": "Sale",
-            "image": "https://dummyimage.com/640x360/0acc65/fff.gif&text=Real+State+App"
+            "image": "https://images.unsplash.com/photo-1680458842581-d35b1c466564?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8TGFuZHx8fHx8fDE2ODY4MzI0ODg&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640"
         },
         {
             "property_id": 944131,
@@ -568,7 +568,7 @@
             "listing_date": "11/16/2021",
             "property_type": "Land",
             "operation_type": "Rent",
-            "image": "https://dummyimage.com/640x360/0acc65/fff.gif&text=Real+State+App"
+            "image": "https://images.unsplash.com/photo-1668375433982-6863a1aeeda7?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8TGFuZHx8fHx8fDE2ODY4MzI1MzM&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640"
         },
         {
             "property_id": 221308,
@@ -583,7 +583,7 @@
             "listing_date": "3/11/2022",
             "property_type": "House",
             "operation_type": "Sale",
-            "image": "https://dummyimage.com/640x360/0acc65/fff.gif&text=Real+State+App"
+            "image": "https://images.unsplash.com/photo-1491357492920-d2979986a84e?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8aG91c2V8fHx8fHwxNjg2ODMyNTUw&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640"
         },
         {
             "property_id": 866700,
@@ -598,7 +598,7 @@
             "listing_date": "11/13/2022",
             "property_type": "Farm",
             "operation_type": "Sale",
-            "image": "https://dummyimage.com/640x360/0acc65/fff.gif&text=Real+State+App"
+            "image": "https://images.unsplash.com/photo-1511117833895-4b473c0b85d6?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8ZmFybXx8fHx8fDE2ODY4MzI1Njc&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640"
         },
         {
             "property_id": 785715,
@@ -613,7 +613,7 @@
             "listing_date": "10/15/2021",
             "property_type": "Land",
             "operation_type": "Rent",
-            "image": "https://dummyimage.com/640x360/0acc65/fff.gif&text=Real+State+App"
+            "image": "https://images.unsplash.com/photo-1437143618958-b630ca68622f?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8TGFuZHx8fHx8fDE2ODY4MzI1ODM&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640"
         },
         {
             "property_id": 941456,
@@ -628,7 +628,7 @@
             "listing_date": "9/20/2020",
             "property_type": "Land",
             "operation_type": "Sale",
-            "image": "https://dummyimage.com/640x360/0acc65/fff.gif&text=Real+State+App"
+            "image": "https://images.unsplash.com/photo-1619114057582-2033419f4f7e?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8TGFuZHx8fHx8fDE2ODY4MzI2MzU&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640"
         },
         {
             "property_id": 2923,
@@ -643,7 +643,7 @@
             "listing_date": "6/3/2021",
             "property_type": "Apartment",
             "operation_type": "Rent",
-            "image": "https://dummyimage.com/640x360/0acc65/fff.gif&text=Real+State+App"
+            "image": "https://images.unsplash.com/photo-1502672023488-70e25813eb80?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8YXBhcnRtZW50fHx8fHx8MTY4NjgzMjY1MQ&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640"
         },
         {
             "property_id": 421652,
@@ -658,7 +658,7 @@
             "listing_date": "3/20/2022",
             "property_type": "Condo",
             "operation_type": "Rent",
-            "image": "https://dummyimage.com/640x360/0acc65/fff.gif&text=Real+State+App"
+            "image": "https://images.unsplash.com/photo-1579645857394-bf520f60e428?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8Y29uZG98fHx8fHwxNjg2ODMyNjY5&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640"
         },
         {
             "property_id": 625044,
@@ -673,7 +673,7 @@
             "listing_date": "11/22/2020",
             "property_type": "House",
             "operation_type": "Sale",
-            "image": "https://dummyimage.com/640x360/0acc65/fff.gif&text=Real+State+App"
+            "image": "https://images.unsplash.com/photo-1503594384566-461fe158e797?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8aG91c2V8fHx8fHwxNjg2ODMyNjkw&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640"
         },
         {
             "property_id": 963494,
@@ -688,7 +688,7 @@
             "listing_date": "11/4/2021",
             "property_type": "Condo",
             "operation_type": "Rent",
-            "image": "https://dummyimage.com/640x360/0acc65/fff.gif&text=Real+State+App"
+            "image": "https://images.unsplash.com/photo-1630699144886-d6d025f5d0f1?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=360&ixid=MnwxfDB8MXxyYW5kb218MHx8Y29uZG98fHx8fHwxNjg2ODMyNzA2&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=640"
         },
         {
             "property_id": 744179,
