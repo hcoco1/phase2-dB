@@ -19,23 +19,23 @@
 
 #### Project Pitch
 
-**"properties"**  is is a JSON object representing a list of properties and is used as a data source for the Real State Site (https://phase2app.vercel.app/).
+**"properties"**  is a JSON object representing a list of properties and is used as a data source for the Real State Site (https://phase2app.vercel.app/).
 
 Each property has the following attributes:
 
-"id": An identifier for the property.
-"address": The street address of the property.
-"city": The city where the property is located.
-"state": The state where the property is located.
-"zip_code": The ZIP code of the property.
-"listing_price": The price at which the property is listed.
-"bedrooms": The number of bedrooms in the property.
-"bathrooms": The number of bathrooms in the property.
-"square_feet": The total area of the property in square feet.
-"listing_date": The date when the property was listed.
-"property_type": The type of property.
-"operation_type": The type of operation (either "Sale" or "Rent").
-"image": The URL of an image representing the property.
+* "id": An identifier for the property.
+* "address": The street address of the property.
+* "city": The city where the property is located.
+* "state": The state where the property is located.
+* "zip_code": The ZIP code of the property.
+* "listing_price": The price at which the property is listed.
+* "bedrooms": The number of bedrooms in the property.
+* "bathrooms": The number of bathrooms in the property.
+* "square_feet": The total area of the property in square feet.
+* "listing_date": The date when the property was listed.
+* "property_type": The type of property.
+* "operation_type": The type of operation (either "Sale" or "Rent").
+* "image": The URL of an image representing the property.
 
 ### Backend Setup
 
